@@ -1,0 +1,22 @@
+{
+    "TestHarnessReferenceMode": "AMD",
+    "TestHarnessLocationMode": "SettingsFileAdjacent",
+    "TypeScriptModuleKind": "AMD",
+    "References": [
+        { "Path": "defs/qunit.d.ts", "IncludeInTestHarness": "false" },
+        { "Path": "defs/require.d.ts", "IncludeInTestHarness": "false" },
+        { "Path": "lib/require.js" },
+        { "Path": "js", "Include": "*.ts", "IncludeInTestHarness": "false" }
+    ],
+    "Tests": [
+        { "Path": "tests/unit", "Includes": [ "*.js" ], "Exclude": "*.d.ts" }
+
+    ],
+    "Compile": {
+        "Mode": "External",
+        "Extensions": [ ".ts" ],
+        "ExtensionsWithNoOutput": [ ".d.ts" ],
+        "SourceDirectory": "js",
+        "OutDirectory": "js"
+    }
+}

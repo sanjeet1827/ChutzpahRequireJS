@@ -1,0 +1,5 @@
+C:\Users\sanjeet2126\Desktop\fixed\ChutzpahRequireJS\ChutzpahRequireJS\bin\ChutzpahRequireJS.dll
+C:\Users\sanjeet2126\Desktop\fixed\ChutzpahRequireJS\ChutzpahRequireJS\bin\ChutzpahRequireJS.pdb
+C:\Users\sanjeet2126\Desktop\fixed\ChutzpahRequireJS\ChutzpahRequireJS\obj\Debug\ChutzpahRequireJS.dll
+C:\Users\sanjeet2126\Desktop\fixed\ChutzpahRequireJS\ChutzpahRequireJS\obj\Debug\ChutzpahRequireJS.pdb
+C:\Users\sanjeet2126\Desktop\fixed\ChutzpahRequireJS\ChutzpahRequireJS\obj\Debug\ChutzpahRequireJS.csprojResolveAssemblyReference.cache
