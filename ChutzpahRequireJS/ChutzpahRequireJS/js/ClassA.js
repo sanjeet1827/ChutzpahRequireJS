@@ -1,4 +1,4 @@
-define(["require", "exports", 'ClassB'], function(require, exports, ClassB) {
+define(["require", "exports", 'js/ClassB'], function(require, exports, ClassB) {
     var ClassA = (function () {
         function ClassA() {
         }
