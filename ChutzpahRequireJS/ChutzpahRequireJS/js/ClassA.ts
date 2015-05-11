@@ -1,4 +1,4 @@
-import ClassB = require('ClassB');
+import ClassB = require('js/ClassB');
 
 export class ClassA {
 

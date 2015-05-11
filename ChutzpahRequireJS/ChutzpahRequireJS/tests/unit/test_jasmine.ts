@@ -1,7 +1,7 @@
 /// <reference path="../../defs/jasmine.d.ts" />
 /// <reference path="../../defs/require.d.ts" />
 
-import ClassA = require("../../js/ClassA");
+import ClassA = require("js/ClassA");
 
 describe("Jasmine - test case", () => {
 
